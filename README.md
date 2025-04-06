@@ -1,7 +1,7 @@
 # Dice-Art
 
 cette application en python permet de transformer une image en dice art.
-Si vous en comprenez pas ce qu'est un dice art, regardez l'exemple ci-dessous
+Si vous ne comprenez pas ce qu'est un dice art, regardez l'exemple ci-dessous
 ![input](https://github.com/user-attachments/assets/10584fc2-b2bc-4d5f-8b61-c8653704abba)
 
 ![output](https://github.com/user-attachments/assets/0721a4c7-020b-4edb-aff7-f9b5db2635f3)
