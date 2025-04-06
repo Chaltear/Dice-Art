@@ -7,7 +7,7 @@ Si vous ne comprenez pas ce qu'est un dice art, regardez l'exemple ci-dessous
 ![output](https://github.com/user-attachments/assets/0721a4c7-020b-4edb-aff7-f9b5db2635f3)
 
 
-De plus il ets possible de gérer la précision de la transformation (combien de pixel pour un dé/dice)
+De plus il ets possible de gérer la précision de la transformation (combien de pixels pour un dé/dice)
 
 ![Cat03](https://github.com/user-attachments/assets/487136bb-dab9-4afa-a845-21d2cfedda13)
 ![0](https://github.com/user-attachments/assets/de4e4c66-ac8a-4b99-a509-66f0ae898de3)
