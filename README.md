@@ -29,24 +29,24 @@ l'utilisation du script main.py nécessite l'appel de python dans les fichiers a
 le fichier index.html permet juste la redirection à la page d'accueil
 
 le fichier accueil et la page principale du site. Elle explique ce que fait le site et oblige
-l'utilisateur à rentrer ses information avant de lancer la conversion.
+l'utilisateur à rentrer ses informations avant de lancer la conversion.
 la page d'accueil permet aussi de changer les langues (eng, fra, ger, ita, spa)
 
-les information à afficher pour chaque langue se situent dans le dossier "lang", 
+les informations à afficher pour chaque langue se situent dans le dossier "lang", 
 chaque langue ayant un different ficher .php
 
-en fonction de la langue utiliser par la page d'accueil au moment de la conversion d'image,
+en fonction de la langue utilisée par la page d'accueil au moment de la conversion d'image,
 l'utilisateur sera renvoyé sur une page resultat differente pour chaque langue (resultat**.php)
 c'est cette page de resultat qui va lancer le programme de conversion de l'image avant de l'afficher
 elle permet aussi à l'utilisateur de télécharger et partager son image
 
-le dossier logo contient les images logos des differents site de partage ainsi que le logo de la banniere
+le dossier logo contient les images logos des differents sites de partage ainsi que le logo de la bannière
 
-De meme le dossier flags contient les images des drapeaux des différentes langues disponibles
+de même le dossier flags contient les images des drapeaux des différentes langues disponibles
 
-Enfin le dossier covert contient le fichier de conversion main.py et généralement deux fichiers png,
-input.png etant l'image envoyer par l'utilisateur
-output.png etant l'image apres transformation
+enfin le dossier convert contient le fichier de conversion main.py et généralement deux fichiers png,
+input.png étant l'image envoyé par l'utilisateur
+output.png étant l'image après transformation
 
 le fichier main.py prend en variable un argument (envoyé par le fichier resultat**.php) permettant de choisir
 la précision de la conversion
